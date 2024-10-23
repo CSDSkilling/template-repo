@@ -1,3 +1,6 @@
+# !IMPORTANT! Replace with your own contributing guidelines. See below for an example, but don't use the same content
+
+
 # Contributing to Microsoft Learning Repositories
 
 MCT contributions are a key part of keeping the lab and demo content current as the Azure platform changes. We want to make it as easy as possible for you to contribute changes to the lab files. Here are a few guidelines to keep in mind as you contribute changes.
