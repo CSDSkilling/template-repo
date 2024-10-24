@@ -16,7 +16,7 @@ body:
   - type: textarea
     id: explanation
     attributes:
-      label: Explaination
+      label: Explanation
       description: Please explain your contribution idea and the benefits.
       placeholder: What do you want to contribute and what are the benefits to learners and/or trainers?
     validations:
