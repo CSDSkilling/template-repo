@@ -11,4 +11,6 @@ Remember to update the following files:
 - [CODEOWNERS](.github/CODEOWNERS)
 - [PULL_REQUEST_TEMPLATE.md](.github/PULL_REQUEST_TEMPLATE.md)
 
+Upload the branch protection ruleset provided in the root of this repository.
+
 Once completed, replace this README content with your own.
