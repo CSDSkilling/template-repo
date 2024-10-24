@@ -1,0 +1,11 @@
+name: Create issue
+
+on:
+  create:
+
+jobs:
+  echo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: echo Hello, world!
