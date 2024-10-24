@@ -5,12 +5,10 @@ labels: ["enhancement"]
 body:
   - type: markdown
     attributes:
-      value: "## Thank you!"
+      value: "## Thank you for wanting to contribute!"
   - type: markdown
     attributes:
-      value: |
-        Thank you for wanting to contribute to this repository!
-        Please complete this form to explain your idea and the maintainer will be in touch.
+      value: Please complete this form to explain your idea and the maintainer will be in touch.
       
   - type: textarea
     id: explanation
