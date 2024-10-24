@@ -10,3 +10,5 @@ Remember to update the following files:
 - [CONTRIBUTING.md](.github/CONTRIBUTING.md)
 - [CODEOWNERS](.github/CODEOWNERS)
 - [PULL_REQUEST_TEMPLATE.md](.github/PULL_REQUEST_TEMPLATE.md)
+
+Once completed, replace this README content with your own.
