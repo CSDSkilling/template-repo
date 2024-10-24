@@ -4,10 +4,10 @@
 name: Repository setup
 
 on:
-  # Only triggered when the repo is created
   create:
-    branches-ignore:
-      - '*'
+    branches:
+      - 'main'
+      
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
