@@ -1,0 +1,13 @@
+on:
+  label:
+    types: [created]
+
+
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check label name
+        if: github.event.label.name == 'hello'
+        run: echo "A label named 'hello' was created!"
