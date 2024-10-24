@@ -26,9 +26,7 @@ body:
       description: "How do you trigger this bug? Please walk us through it step by step."
       value: |
         1.
-        2.
-        3.
-        ...
-      render: bash
+        1.
+        1.
     validations:
       required: true
