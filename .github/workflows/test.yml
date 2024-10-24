@@ -1,8 +1,8 @@
+name: Label Created Workflow
+
 on:
   label:
     types: [created]
-
-
 
 jobs:
   test:
