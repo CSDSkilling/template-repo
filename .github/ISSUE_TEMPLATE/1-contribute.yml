@@ -2,7 +2,7 @@ name: New Contribution
 description: Explain your contribution idea to the repository maintainer.
 
 title: "[Contrib]: "
-labels: ["contrib"]
+labels: ["enhancement"]
 body:
   - type: markdown
     attributes:
